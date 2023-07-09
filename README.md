@@ -1,18 +1,23 @@
-General:
+Learning Objectives :
 
 What is a virtual machine?
+
 A virtual machine (VM) is a software emulation of a physical computer system that allows multiple operating systems to run on a single physical machine. It provides an isolated environment where an operating system and its applications can be installed and executed as if it were running on a dedicated hardware.
 
 What is Vagrant?
+
 Vagrant is an open-source tool used for creating and managing virtual development environments. It simplifies the setup and configuration of virtual machines by providing a command-line interface and configuration files that automate the process. Vagrant allows developers to define their environment as code, making it easy to share and reproduce development setups across different machines.
 
 Who wrote Vagrant?
+
 Vagrant was created by Mitchell Hashimoto, who co-founded HashiCorp, a company that specializes in developing tools for cloud infrastructure automation.
 
 What is Ubuntu?
+
 Ubuntu is a popular open-source Linux distribution based on the Debian architecture. It is known for its ease of use, stability, and community support. Ubuntu provides a complete operating system with a desktop environment, pre-installed software, and a vast repository of applications.
 
 What does "Ubuntu" mean?
+
 The word "Ubuntu" originates from the Zulu and Xhosa languages of South Africa and carries the meaning of "humanity" or "I am because we are." It represents the philosophy of interconnectedness and community, emphasizing the importance of sharing and cooperation.
 
 How to use VMs with Vagrant?
